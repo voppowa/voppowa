@@ -1,0 +1,36 @@
+@media (min-width: 789px) {
+
+    /**************************************
+     ALLG STYLES
+     **************************************/
+
+    body .container {
+      background-color: white;
+      width: 90%;
+    }
+
+
+
+    /**************************************
+     PROFILE STYLES
+     **************************************/
+
+     /*Profile Picture Style*/
+
+    .profile .contact #profile-picture {
+      width: 25%;
+      margin:20px;
+      border-radius: 50%;
+    };
+
+
+    #profile-picture img {
+      text-align: right;
+    }
+
+    .intro-info .info-list {
+      text-align: left;
+    }
+
+
+ }
